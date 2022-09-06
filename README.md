@@ -4,3 +4,4 @@
 - [x] KMP (./kmp.md)
 - [ ] KMP自动机 (./kmp_auto.md)
 - [x] 字符串哈希 (./hash.md)
+- [ ] 后缀数组(SA) (./sa.md)
