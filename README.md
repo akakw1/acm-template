@@ -4,6 +4,7 @@
 - [ ] 马拉车 manacher (./manacher.md)
 - [x] KMP (./kmp.md)
 - [x] KMP自动机 (./kmp_auto.md)
+- [ ] AC自动机 (./ac_auto.md)
 - [x] 字符串哈希 (./hash.md)
 - [ ] 后缀数组(SA) (./sa.md)
 
